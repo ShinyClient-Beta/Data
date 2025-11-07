@@ -1,0 +1,31 @@
+{
+    "news": [
+        {
+            "title": "Shiny Client 0.0.1",
+            "Author": "Shiny Client Team",
+            "unixtime": 1752105240,
+            "subtitle": "Lançamento público da versão 0.0.1.",
+            "body": "Seja muito bem-vindo(a)! Agradecemos por usar o FluxZK Client. Esperamos que goste do nosso cliente, que ainda está em beta e conta com mais de 70 Mods!",
+            "img": ""
+        },
+        {
+            "title": "Shiny Client Beta.",
+            "Author": "STRONGSK",
+            "unixtime": 1734487980,
+            "subtitle": "Lançamento do Beta Público.",
+            "body": "Estamos felizes em lançar o Shiny Client em Beta público! Esperamos que haja alguns bugs, mas garantimos que o cliente está totalmente funcional. Agradecemos por usar o Shiny e esperamos seu feedback!",
+            "img": ""
+        },
+        {
+            "title": "A nova seção de Notícias.",
+            "Author": "Shiny Client",
+            "unixtime": 1734183120,
+            "subtitle": "As novidades do Shiny.",
+            "body": "Estamos testando o novo recurso de Notícias! Aqui, você verá anúncios diretamente no cliente para se manter atualizado sobre o que estamos desenvolvendo!",
+            "img": ""
+        }
+    ]
+
+}
+
+
