@@ -1,3 +1,2 @@
-# This is deprecated, new Shiny versions will use the client meta instead
-
+# This is deprecated, new shiny versions will use the client meta instead
 

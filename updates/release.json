@@ -1,9 +1,9 @@
 {
     "updates": [
         {
-            "updatelink": "https://github.com/FluxZKClient/Data/releases",
-            "versionstring": "1",
-            "version": 1
+            "updatelink": "https://github.com/errorClient/client/releases",
+            "versionstring": "0.0.1",
+            "version": 0
         }
     ]
 }
