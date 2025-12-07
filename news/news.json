@@ -2,33 +2,33 @@
   "news": [
     {
       "title": "Suporte Multiplataforma: Linux e macOS",
-      "Author": "Equipe Shiny Client",
+      "Author": "Equipe Firefly Client",
       "unixtime": 1753104000,
       "subtitle": "Expansão de Compatibilidade em Desenvolvimento.",
-      "body": "Estamos felizes em anunciar que o desenvolvimento para as versões Linux e macOS do Shiny Client está em andamento. Nossa prioridade é garantir uma experiência de usuário consistente e otimizada em todos os sistemas operacionais. Fique atento a futuros comunicados sobre as datas de lançamento e progresso.",
+      "body": "Estamos felizes em anunciar que o desenvolvimento para as versões Linux e macOS do Firefly Client está em andamento. Nossa prioridade é garantir uma experiência de usuário consistente e otimizada em todos os sistemas operacionais. Fique atento a futuros comunicados sobre as datas de lançamento e progresso.",
       "img": ""
     },
     {
-      "title": "Shiny Client 0.0.1",
-      "Author": "Equipe Shiny Client",
+      "title": "Firefly Client 0.0.1",
+      "Author": "Equipe Firefly Client",
       "unixtime": 1752105240,
       "subtitle": "Lançamento Oficial: Versão 0.0.1 Disponível.",
-      "body": "É com satisfação que anunciamos o lançamento público do Shiny Client v0.0.1. Agradecemos por sua confiança. O cliente, ainda em fase Beta, já incorpora mais de 70 Mods, visando aprimorar sua experiência de jogo. Seja bem-vindo!",
+      "body": "É com satisfação que anunciamos o lançamento público do Firefly Client v0.0.1. Agradecemos por sua confiança. O cliente, ainda em fase Beta, já incorpora mais de 70 Mods, visando aprimorar sua experiência de jogo. Seja bem-vindo!",
       "img": ""
     },
     {
-      "title": "Shiny Client Beta.",
+      "title": "Firefly Client Beta.",
       "Author": "STRONGSK",
       "unixtime": 1734487980,
       "subtitle": "Início da Fase de Testes Beta Pública.",
-      "body": "Temos o prazer de disponibilizar o Shiny Client em Beta público. Embora esperemos a ocorrência de alguns *bugs*, garantimos que o cliente está totalmente funcional e estável. Seu feedback é essencial para o aprimoramento contínuo. Agradecemos por utilizar o Shiny!",
+      "body": "Temos o prazer de disponibilizar o Firefly Client em Beta público. Embora esperemos a ocorrência de alguns *bugs*, garantimos que o cliente está totalmente funcional e estável. Seu feedback é essencial para o aprimoramento contínuo. Agradecemos por utilizar o Firefly!",
       "img": ""
     },
     {
       "title": "Nova Seção de Notícias Implementada.",
-      "Author": "Shiny Client",
+      "Author": "Firefly Client",
       "unixtime": 1734183120,
-      "subtitle": "Mantenha-se Atualizado com as Novidades do Shiny.",
+      "subtitle": "Mantenha-se Atualizado com as Novidades do Firefly.",
       "body": "Estamos em fase de testes do novo recurso de Notícias! Este será o seu canal direto para anúncios e comunicados sobre o desenvolvimento e futuras atualizações, diretamente no cliente. Fique ligado!",
       "img": ""
     }
